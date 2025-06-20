@@ -1,13 +1,44 @@
 # 📝 To-Do List App
 
-A simple To-Do List app built with React. You can add, check off, or delete tasks — to stay organized and efficient.
+# 📝 To-Do List App
+
+A simple and responsive to-do list built with *React*.
 
 
-🛠️ Technologies Used
-React
 
-HTML / CSS
+# ✨ Features
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- ✅ Check off completed tasks
+- 🧠 Uses `useState` for state management
+- 💾 Persists data with `localStorage`
 
-JavaScript (ES6+)
 
-React Hooks (useState)
+
+# 🛠️ Technologies
+- React
+- JavaScript (ES6+)
+- HTML / CSS
+- Git
+
+🧠 What I learned
+
+Managing state in React with hooks
+Component-based architecture
+Data persistence using localStorage
+
+# 🚀 Getting Started
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/mari0ddev/to-do-list.git
+
+2. Install dependencies: npm install
+3. Run: cd my-todo-app  , npm start
+
+📸 Screenshot
+1 Homepage --- https://i.imgur.com/ja4TPtH.png
+2 the result --- https://i.imgur.com/cE1nqzd.png
+
+   
+  
